@@ -6,6 +6,7 @@ def create_an_array
   directors=["Orson Welles", "Ingmar Bergman", "Robert Bresson", "Federico Fellini"]
 end
 
+
 def add_element_to_end_of_array(array, element)
   create_an_array << "Stanley Kubrick"
 end
